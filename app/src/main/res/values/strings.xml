@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="picture_of_product">Picture of product</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+</resources>
