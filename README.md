@@ -1,3 +1,4 @@
+This is the app description.
 
 1 - List all the products on app launch, displaying :
      <li>Product Title
